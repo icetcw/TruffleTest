@@ -1,2 +1,2 @@
-# CryptoIce
+# TruffleTest
 Test truffle
